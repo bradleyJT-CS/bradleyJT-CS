@@ -14,7 +14,7 @@ A simulation-style strategy game built in **Unreal Engine 5** where players mana
 
 ---
 
-## 📚 Relevant Coursework
+## Relevant Coursework
 
 ### Programming & CS Fundamentals
 - Intro to Computer Science I & II  

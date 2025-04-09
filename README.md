@@ -8,7 +8,7 @@
 
 ## Projects
 
-### [🔥 Firefighter Sim](https://github.com/bradleyJT-CS/sim-firefighter)  
+### [Firefighter Sim](https://github.com/bradleyJT-CS/sim-firefighter)  
 A simulation-style strategy game built in **Unreal Engine 5** where players manage wildfire suppression. My work focuses on **Blueprint scripting**, **Niagara VFX**, and the **fire/environment system**.  
 *Note: Managed via Perforce—this repo includes design notes and media instead of source code.*
 
@@ -50,7 +50,7 @@ A simulation-style strategy game built in **Unreal Engine 5** where players mana
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 **Languages:**  
 C, C++, Python, JavaScript, HTML/CSS, Ruby, Raku, Racket, Prolog, Bash  

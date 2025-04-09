@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Brad!
 
-- 🎮 I'm currently working on my senior capstone project: a **firefighting simulation game** built in **Unreal Engine 5** using **Blueprints** and **Houdini Engine**.
-- 🧠 I'm learning about **open source software** and **machine learning** in my spare time.
-- 📍 Pronouns: He/Him/His
+- I'm currently working on my senior capstone project: a **firefighting simulation game** built in **Unreal Engine 5** using **Blueprints** and **Houdini Engine**.
+- I'm learning about **open source software** and **machine learning** in my spare time.
+- Pronouns: He/Him/His
 
 ---
 

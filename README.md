@@ -12,6 +12,9 @@
 A simulation-style strategy game built in **Unreal Engine 5** where players manage wildfire suppression. My work focuses on **Blueprint scripting**, **Niagara VFX**, and the **fire/environment system**.  
 *Note: Managed via Perforce—this repo includes design notes and media instead of source code.*
 
+### [Procedural Sun Shader](https://github.com/bradleyJT-CS/sun-shader)  
+A layered **GLSL** shader that simulates a stylized, animated sun using real time effects like a glowing core, solar corona, and dynamic flares. This project highlights my work with **procedural noise**, **polar coordinate math**, and **additive blending** for visual layering.  
+
 ---
 
 ## Relevant Coursework
